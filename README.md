@@ -1,6 +1,6 @@
-﻿# Hi, I'm Wei Lun  👋👩🏾‍💻
+﻿# Hi, I'm Wei Lun 👋👩🏾‍💻
 
-<img src="" alt="banner that says Wei Lun - software engineer, content creator and UX-obssessed, alongside a cartoon illustration of Wei Lun">
+<img src="banner.png" alt="banner that says Wei Lun - software engineer, content creator and UX-obssessed, alongside a cartoon illustration of Wei Lun">
 
 I'm Wei Lun, a penultimate-year CS / Business Nanyang Scholar at NTU, but I'm also...
 
